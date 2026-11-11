@@ -11,4 +11,4 @@ Fetch MCP setup, client by client, checked and dated.
 npx @fetchmcp-net/cli fetch https://example.com -o text
 ```
 
-A [Teneo Labs](https://fetchmcp.net/imprint) project, built on the [Live Web Data API](https://livewebdata.com).
+Built on the [Live Web Data API](https://livewebdata.com).
